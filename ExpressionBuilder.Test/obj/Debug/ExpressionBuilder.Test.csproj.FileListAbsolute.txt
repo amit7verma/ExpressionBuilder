@@ -1,0 +1,14 @@
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.Test.dll
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.Test.pdb
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.dll
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\nunit.framework.dll
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\ExpressionParser.dll
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.pdb
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\nunit.framework.pdb
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\nunit.framework.xml
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\ExpressionParser.pdb
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.csprojAssemblyReference.cache
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.csproj.CoreCompileInputs.cache
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.csproj.CopyComplete
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.dll
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.pdb

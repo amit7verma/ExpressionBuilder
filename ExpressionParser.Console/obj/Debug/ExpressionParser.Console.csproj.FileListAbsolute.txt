@@ -1,0 +1,12 @@
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionParser.Console\bin\Debug\ExpressionParser.Console.exe.config
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionParser.Console\bin\Debug\ExpressionParser.Console.exe
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionParser.Console\bin\Debug\ExpressionParser.Console.pdb
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionParser.Console\bin\Debug\ExpressionParser.dll
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionParser.Console\bin\Debug\ExpressionParser.pdb
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionParser.Console\obj\Debug\ExpressionParser.Console.csprojAssemblyReference.cache
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionParser.Console\obj\Debug\ExpressionParser.Console.csproj.CoreCompileInputs.cache
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionParser.Console\obj\Debug\ExpressionParser.Console.csproj.CopyComplete
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionParser.Console\obj\Debug\ExpressionParser.Console.exe
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionParser.Console\obj\Debug\ExpressionParser.Console.pdb
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionParser.Console\bin\Debug\ExpressionBuilder.dll
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionParser.Console\bin\Debug\ExpressionBuilder.pdb

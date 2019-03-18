@@ -1,0 +1,11 @@
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder\bin\Debug\ExpressionBuilder.dll
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder\bin\Debug\ExpressionBuilder.pdb
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder\obj\Debug\ExpressionBuilder.csprojAssemblyReference.cache
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder\obj\Debug\ExpressionBuilder.csproj.CoreCompileInputs.cache
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder\obj\Debug\ExpressionBuilder.dll
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder\obj\Debug\ExpressionBuilder.pdb
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder\bin\Debug\ExpressionParser.dll
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder\bin\Debug\ExpressionParser.pdb
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder\obj\Debug\ExpressionBuilder.Forms.ExpressionBuilderForm.resources
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder\obj\Debug\ExpressionBuilder.csproj.GenerateResource.cache
+D:\Innovation2019\hyderabad-avengers\ExpressionBuilder\ExpressionBuilder\obj\Debug\ExpressionBuilder.csproj.CopyComplete
